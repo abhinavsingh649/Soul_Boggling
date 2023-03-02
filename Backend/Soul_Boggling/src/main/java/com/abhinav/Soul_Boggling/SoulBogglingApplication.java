@@ -8,6 +8,7 @@ public class SoulBogglingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SoulBogglingApplication.class, args);
+
 	}
 
 }
